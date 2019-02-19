@@ -25,8 +25,8 @@ This submission should include the following, produced as a 1000 word report.
 
 #### Example
 
-| Requirement| Summary| How Met|
-|--|
+| Requirement | Summary | How Met |
+| -- | -- | -- |
 |1|Scenes|Two levels of the game, each representing the interior of a different house.|
 |2|State|A game state system which handles treasure gathering and health of the player.|
 |3|PhysX|Guard objects implemented as rigidbodies, and treasure chests.|
