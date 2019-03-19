@@ -82,6 +82,9 @@ The game can be split into several independent units of gameplay that represent 
 To provide some extra information that is maybe not taken into account the task-solving evaluation, open questions can be asked to the test subject. They may produce answers that outline unexpected aspects of the game and do not emphasize one aspect of the game in particular.
 
 > What do you think of the game?
+
 > Have you encountered any problems?
+
 > What did you like/dislike?
+
 > Is there anything else you want to say?

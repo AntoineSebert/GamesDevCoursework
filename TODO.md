@@ -34,4 +34,3 @@ https://unity3d.com/learn/tutorials/s/interactive-tutorials
 https://unity3d.com/learn/tutorials/s/unity-playground
 https://unity3d.com/learn/tutorials/s/2d-game-kit
 https://unity3d.com/learn/tutorials/s/space-chicken
-https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial
